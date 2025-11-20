@@ -1,0 +1,5 @@
+{
+  "name": "Codatta Blog (Jekyll Architecture)",
+  "description": "A React-based blog engine architected to mimic Jekyll: utilizing Front Matter, Liquid-style variable passing (site, page), and layout inheritance.",
+  "requestFramePermissions": []
+}

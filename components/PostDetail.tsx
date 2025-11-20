@@ -1,0 +1,1 @@
+export const PostDetail = () => null; // Deprecated: Logic moved to layouts/SingleLayout.tsx to match Hugo structure

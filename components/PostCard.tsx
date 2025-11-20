@@ -1,0 +1,1 @@
+export const PostCard = () => null; // Deprecated: Logic moved to layouts/ListLayout.tsx to match Hugo structure
